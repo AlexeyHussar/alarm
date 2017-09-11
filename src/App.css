@@ -1,0 +1,36 @@
+.jumbotron {
+  background-color: #2A2A2A;
+  text-align: center;
+  height: 300px;
+}
+
+.jumbotron h1 {
+  font-size: 150px;
+  color: #FF0000;
+}
+
+.alarm-tools {
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#alarm-Time-Field {
+  background-color: #DFDCDC;
+}
+
+#audio-holder {
+  margin-top: 15px;
+  background-color: #DFDCDC;
+}
+
+#wake-up-time-pointer {
+  font: 20px solid;
+  margin-top: 15px;
+  background-color: #DFDCDC;
+}
+
+#submit-button {
+  background-color: #DFDCDC;
+}
+
