@@ -26,7 +26,7 @@ const AlarmSetter = ({ dispatch }) => {
         <FormGroup>
           <ControlLabel>Set the alarm time:</ControlLabel>
           <FormControl
-            id='alarm-time-field'
+            id='alarm-Time-Field'
             type='text'
             inputRef={node => timeInput = node}
             placeholder='Type the wake-up time in the following format: hh:mm'
